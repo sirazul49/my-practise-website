@@ -1,0 +1,14 @@
+h1{
+    color:aqua;
+}
+small{
+    display: block;
+}
+#blog{
+    background-color: darkgreen;
+    padding: 10px;
+    border: 10px solid yellow;
+    border-radius:10px;
+    margin: 20px 10px;
+    width: 50%;
+}
